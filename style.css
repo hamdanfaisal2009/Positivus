@@ -1,0 +1,167 @@
+:root{
+    --green-clr:#B9FF66;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: sans-serif;
+}
+
+.style:hover{
+    border-bottom:2px solid rgba(146, 146, 146, 0.873);
+}
+
+.heading1{
+    font-size: 60px;
+    line-height: 50px;
+    font-weight: 500;
+}
+
+.para1{
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.image1{
+    width:330px;
+}
+
+.heading2{
+    background-color:#B9FF66;
+    border-radius: 10px;
+}
+
+.card-h{
+    background-color: #B9FF66;
+    display: inline-block;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+.c-con{
+    border-radius: 40px;
+    background-color: #f3f3f3;
+     box-shadow: 0 3px 0px black;
+}
+
+.c-con1{
+    border-radius: 40px;
+    background-color:#B9FF66;
+     box-shadow: 0 3px 0px black;
+}
+
+.card-h2{
+     background-color:#f3f3f3;
+    display: inline-block;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+.Icon{
+    margin-top:6rem;
+}
+
+.c-sec{
+    display: inline;
+}
+
+.accor-1{
+    border-radius: 30px;
+    background-color: #B9FF66;
+}
+
+.fs-h{
+   font-size: 60px;
+}
+
+.consult{
+    background-color: #B9FF66;
+    border-radius: 50px;
+    box-shadow: 0 4px 0px black;
+}
+
+.d-1{
+  padding: 30px 35px 0px 35px; 
+}
+
+.d-p{
+    border-top: 1px solid black;
+    margin: 10px 40px;
+}
+
+.para{
+    margin-right: 30px;
+    margin-left: 15px;
+    padding-bottom:50px;
+}
+
+.consult2{
+    background-color:#f3f3f3;
+    border-radius: 50px;
+    box-shadow: 0 4px 0px black;
+}
+
+.d-2{
+    padding: 40px 35px 40px 35px;
+}
+
+.ft-con{
+   background-color: #f3f3f3;
+   border-radius: 30px;
+}
+
+.name , .email , .sms{
+    border-radius: 15px;
+}
+
+.sms{
+    padding:20px 0px 200px 30px;
+}
+
+.sms-btn{
+    margin-left: 60px;
+    padding: 20px 290px 20px 290px;
+    margin-bottom: 90px;
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
